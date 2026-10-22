@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: metsanangwana-afterschool
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
